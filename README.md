@@ -53,3 +53,35 @@ The objective of this project is to analyze hospital operations, patient records
 **Muhammad Junaid Khawar**
 
 Aspiring Data Analyst
+
+
+
+
+---
+
+# 📷 Dashboard Screenshots
+
+## 🏥 Hospital Performance Dashboard
+
+![Hospital Performance Dashboard](hospital performances dashboards.png)
+
+---
+
+## 👨‍⚕️ Doctor & Department Dashboard
+
+![Doctor and Department Dashboard](doctor and departments dashboards.png)
+
+---
+
+## 💰 Financial Analytics Dashboard
+
+![Financial Analytics Dashboard](hospital financial analytics dashboards.png)
+
+---
+
+## 👥 Patient Analytics Dashboard
+
+![Patient Analytics Dashboard](patients analytics dashboards.png)
+
+
+
